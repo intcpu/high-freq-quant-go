@@ -1,0 +1,18 @@
+{
+    "gate-a":{
+      "api_sign": "",
+      "exchange": "",
+      "ex_type": "",
+      "uid": "",
+      "key": "",
+      "secret": ""
+    },
+    "binance-a":{
+      "api_sign": "",
+      "exchange": "",
+      "ex_type": "",
+      "uid": "",
+      "key": "",
+      "secret": ""
+    }
+}

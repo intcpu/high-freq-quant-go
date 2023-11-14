@@ -1,0 +1,10 @@
+{
+    "test":{
+      "host": "",
+      "user": "",
+      "password": "",
+      "port": "",
+      "database": "",
+      "charset": "utf8"
+    }
+}

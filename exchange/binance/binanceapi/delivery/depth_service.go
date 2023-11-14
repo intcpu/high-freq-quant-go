@@ -1,0 +1,9 @@
+package delivery
+
+import "high-freq-quant-go/exchange/binance/binanceapi/common"
+
+// Ask is a type alias for PriceLevel.
+type Ask = common.PriceLevel
+
+// Bid is a type alias for PriceLevel.
+type Bid = common.PriceLevel
